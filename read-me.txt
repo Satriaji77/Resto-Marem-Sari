@@ -1,0 +1,9 @@
+###############           Aplikasi Kasir Resto Marem Sari           ###############
+
+<---------------------------------------------------------------------------->
+
+Aplikasi Kasir Restoran Berbasis Web Menggunakan PHP MySQL
+
+Login Admin
+
+username : admin | password: admin
